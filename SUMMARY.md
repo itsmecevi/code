@@ -6,4 +6,5 @@
 * Power View & Power Maps
 * Microsoft Power BI
 * Descriptive & Inferential Statistics
+* Data Model, DAX, & Power Pivot
 
