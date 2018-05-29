@@ -7,4 +7,5 @@
 * Microsoft Power BI
 * Descriptive & Inferential Statistics
 * Data Model, DAX, & Power Pivot
+* Macro-VBA
 
