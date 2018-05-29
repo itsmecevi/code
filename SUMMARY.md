@@ -8,4 +8,6 @@
 * Macro-VBA
 * Microsoft Power BI
 * R Programming
+* Descriptive & Inferential Statistics
+* Time Series & Predictive Analytics
 
