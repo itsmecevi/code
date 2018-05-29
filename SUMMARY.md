@@ -7,7 +7,7 @@
 * Power View & Power Maps
 * Macro-VBA
 * Microsoft Access & SQL
-* Microsoft Power BI
+* [Microsoft Power BI](microsoft-power-bi.md)
 * R Programming
 * Descriptive & Inferential Statistics
 * Time Series & Predictive Analytics
