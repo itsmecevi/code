@@ -10,4 +10,5 @@
 * Macro-VBA
 * Microsoft Access & SQL
 * R Programming
+* Time Series & Predictive Analytics
 
