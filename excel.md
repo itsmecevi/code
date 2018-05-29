@@ -1,4 +1,4 @@
-# Excel
+# Microsoft Excel
 
 * [How to make cv ](https://itsmecevi.github.io/)
 * jkjkjk
