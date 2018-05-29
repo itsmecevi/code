@@ -6,4 +6,6 @@
 * Data Model, DAX, & Power Pivot
 * Power View & Power Maps
 * Macro-VBA
+* Microsoft Power BI
+* R Programming
 
