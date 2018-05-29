@@ -8,4 +8,5 @@
 * Descriptive & Inferential Statistics
 * Data Model, DAX, & Power Pivot
 * Macro-VBA
+* Microsoft Access & SQL
 
