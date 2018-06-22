@@ -4,4 +4,5 @@
 * [Power Query, mehrere Werte in einer Zelle verketten](https://svens-excel-welt.blogspot.com/2017/01/power-query-mehrere-werte-in-einer.html)
 * [Entpivotieren von Spalten \(Power Query\)](https://support.office.com/de-de/article/entpivotieren-von-spalten-power-query-0f7bad4b-9ea1-49c1-9d95-f588221c7098)
 * [Operators](https://msdn.microsoft.com/en-us/query-bi/m/operators)
+* [PowerQuery: How can I concatenate grouped values](https://stackoverflow.com/questions/44058355/powerquery-how-can-i-concatenate-grouped-values)
 
