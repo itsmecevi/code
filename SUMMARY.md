@@ -6,7 +6,7 @@
 * [Data Model, DAX, & Power Pivot](data-model-dax-and-power-pivot.md)
 * [Power View & Power Maps](power-view-and-power-maps.md)
 * [Macro-VBA](macro-vba.md)
-* [Microsoft Access & SQL](microsoft-access-and-sql.md)
+* [SQL](microsoft-access-and-sql.md)
 * [SQL Server Business Intelligence](sql-server-business-intelligence.md)
 * [Microsoft Power BI](microsoft-power-bi.md)
 * [R Programming](r-programming.md)
