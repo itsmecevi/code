@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [My coding farm](README.md)
 * [Microsoft Excel](excel.md)
 * [Power Query & M Language](power-query-and-m-language.md)
 * [Data Model, DAX, & Power Pivot](data-model-dax-and-power-pivot.md)
