@@ -1,2 +1,0 @@
-# Descriptive & Inferential Statistics
-

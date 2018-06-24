@@ -10,6 +10,4 @@
 * [SQL Server Business Intelligence](sql-server-business-intelligence.md)
 * [Microsoft Power BI](microsoft-power-bi.md)
 * [R Programming](r-programming.md)
-* [Descriptive & Inferential Statistics](descriptive-and-inferential-statistics.md)
-* [Time Series & Predictive Analytics](time-series-and-predictive-analytics.md)
 
