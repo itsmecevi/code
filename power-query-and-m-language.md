@@ -5,4 +5,5 @@
 * [Entpivotieren von Spalten \(Power Query\)](https://support.office.com/de-de/article/entpivotieren-von-spalten-power-query-0f7bad4b-9ea1-49c1-9d95-f588221c7098)
 * [Operators](https://msdn.microsoft.com/en-us/query-bi/m/operators)
 * [PowerQuery: How can I concatenate grouped values](https://stackoverflow.com/questions/44058355/powerquery-how-can-i-concatenate-grouped-values)
+* [Multi Condition Logic In Power Query](https://www.excelguru.ca/blog/2014/09/03/multi-condition-logic-in-power-query/)
 
