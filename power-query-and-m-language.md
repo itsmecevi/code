@@ -8,4 +8,5 @@
 * [Multi Condition Logic In Power Query](https://www.excelguru.ca/blog/2014/09/03/multi-condition-logic-in-power-query/)
 * [Date.ToText](https://msdn.microsoft.com/en-us/query-bi/m/date-totext)
 * [Date functions](https://msdn.microsoft.com/en-us/query-bi/m/date-functions)
+* [Power Query M Reference](https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference)
 
