@@ -5,4 +5,5 @@
 * [LOOKUP function](https://support.office.com/en-us/article/lookup-function-446d94af-663b-451d-8251-369d5e3864cb)
 * [12 reasons why you should use Excel Tables](https://www.powerusersoftwares.com/single-post/2017/09/11/12-reasons-you-should-use-Excel-Tables)
 * [Add a trend or moving average line to a chart](https://support.office.com/en-us/article/add-a-trend-or-moving-average-line-to-a-chart-fa59f86c-5852-4b68-a6d4-901a745842ad)
+* [Top 40 Microsoft Excel Interview Questions & Answers](https://career.guru99.com/top-25-microsoft-excel-interview-questions/)
 
