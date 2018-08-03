@@ -9,4 +9,5 @@
 * [Date.ToText](https://msdn.microsoft.com/en-us/query-bi/m/date-totext)
 * [Date functions](https://msdn.microsoft.com/en-us/query-bi/m/date-functions)
 * [Power Query M Reference](https://msdn.microsoft.com/en-us/query-bi/m/power-query-m-reference)
+* [ IF Statement using Power Query](https://community.powerbi.com/t5/Desktop/IF-Statement-using-Power-Query/td-p/122030)
 
